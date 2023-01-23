@@ -104,7 +104,7 @@ ul{
 /* top banner */
 .top-banner{
     background-color: #e736e4;
-    background-image: url(/assets/asset\ 32.png);
+    background-image: url(assets/asset\ 32.png);
     background-size: 300px;
 }
 
@@ -189,7 +189,7 @@ header{
 
 .features-section{
     padding: 80px var(--padding-inline-section) 0;
-    background-image: url(/assets/asset\ 34.svg);
+    background-image: url(assets/asset\ 34.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -269,7 +269,7 @@ header{
     position: relative;
     min-height: 400px;
     background: black;
-    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)),url(/assets/asset\ 36.jpeg);
+    background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)),url(assets/asset\ 36.jpeg);
     transition: 0.2s;
 }
 
